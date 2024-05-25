@@ -11,8 +11,8 @@ TypeScript Crash Course
 | Type                   | /taɪp/ /太坡/                     | 类型           | 類型     | TS 官網 |
 | Subtype                | /ˈsʌb.taɪp/ /ˈ 沙播太坡/          | 子类型         | 類型     |         |
 | Supertype              | /ˈsuː.pɚ.taɪp/ /ˈ 舒婆兒太坡/     | 超类型; 父型   | 類型     |         |
-| Type Annotation        | // //                             | 类型注解       | 類型註解 |         |
-| Type Inference         |                                   | 类型推断       | 類型推斷 |         |
+| Type Annotation        | /ˌæn.əˈteɪ.ʃən/ /A 呢貼遜/        | 类型注解       | 類型註解 |         |
+| Type Inference         | /ˈɪnfərəns / /英佛忍絲/           | 类型推断       | 類型推斷 |         |
 | explicit               | /ɪkˈsplɪsɪt / /依克 ˈ 斯坡勒洗特/ | 显式的         | 明確的   |         |
 | implicit               | /ɪmˈplɪsɪt / /引 ˈ 坡勒洗特/      | 隐式的         | 隱含的   |         |
 | Type Assertion         |                                   | 类型断言       | 類型斷言 |         |
